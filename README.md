@@ -1,4 +1,4 @@
-<h1 align="center">Hi There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Danilo Ribeiro</h1>
+<h1 align="center">Hi There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">, I'm Danilo Ribeiro</h1>
 <h3 align="center">A Web Developer, passionate about technology and music. 8 years working with web.</h3>
 
 - 🔭  I’m currently working on Adman Criativa
