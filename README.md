@@ -1,37 +1,38 @@
 <h1 align="center">Hi There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">, I'm Danilo Ribeiro</h1>
-<h3 align="center">A Web Developer, passionate about technology and music. 8 years working with web.</h3>
+<h3>A Web Developer, passionate about technology and music. 8 years working with web.</h3>
+
+- 🔥 Full-stack Developer
 
 - 🔭  I’m currently working on Adman Criativa
 
 - 📫  How to reach me **d.ribeiro2588@gmail.com**
 
+### Languages and skills
+
 <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></td>
-    </tr>
+  <tr style="border-top:0 !important">
+      <td style="border:0; padding:0 !important;"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
+      <td style="border:0; padding:0 !important;"><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></td>
+      <td style="border:0; padding:0 !important;"><img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></td>
+      <td style="border:0; padding:0 !important;"><img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
+      <td style="border:0; padding:0 !important;"><img alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></td>
+      <td style="border:0; padding:0 !important;"><img alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
+      <td style="border:0; padding:0 !important;"><img alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></td>
+  </tr>
 </table>
 
-<p align="center">
-<a href="https://linkedin.com/in/danilo-ribeiro-16998667" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danilo-ribeiro-16998667" height="20" width="20" /></a>
-<a href="https://fb.com/danilo.ribeiro.2588" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="danilo.ribeiro.2588" height="20" width="20" /></a>
-<a href="https://instagram.com/d.ribeiro88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="d.ribeiro88" height="20" width="20" /></a>
-</p>
+### Activity
 
-<!--
-**Ribeiro88/Ribeiro88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr style="border-top:0 !important">
+      <td style="border:0; padding:0 !important"><img width="417px" height="auto" src="https://github-readme-stats.vercel.app/api?username=Ribeiro88&show_icons=true&theme=tokyonight" alt="Danilo's Stats" /></td>
+      <td style="border:0; padding:0 !important"><img width="417px" height="164px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro88&layout=compact&theme=tokyonight" alt="Danilo's Top Languagues" /></td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+### Social Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/danilo.ribeiro.2588)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/d.ribeiro88)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danilo-ribeiro-16998667)
+
