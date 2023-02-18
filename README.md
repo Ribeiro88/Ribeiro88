@@ -1,4 +1,4 @@
-<h1 align="center">Hi There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">, I'm Danilo Ribeiro</h1>
+<h1 align="center">Hi There 👋🏽, I'm Danilo Ribeiro</h1>
 <h3>A Web Developer, passionate about technology and music.</h3>
 
 <img src="https://komarev.com/ghpvc/?username=Ribeiro88&color=yellow" alt="Profile views" />
