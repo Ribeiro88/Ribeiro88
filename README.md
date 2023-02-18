@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Ribeiro88&color=yellow" alt="Profile views" />
 
-🔥 Full-stack Developer
+🔥 Front-end Developer
 
 🔭  I’m currently working on Adman Criativa
 
