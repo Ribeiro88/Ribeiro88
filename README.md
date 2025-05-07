@@ -23,9 +23,10 @@
 
 ### Activity
 
+<img width="417px" height="164px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro88&layout=compact&theme=tokyonight" alt="Danilo's Top Languagues" />
 
 <!-- <img align="center" width="417px" height="auto" src="https://github-readme-stats.vercel.app/api?username=Ribeiro88&show_icons=true&theme=tokyonight" alt="Danilo's Stats" /> -->
-<img align="center" width="417px" height="164px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro88&layout=compact&theme=tokyonight" alt="Danilo's Top Languagues" />
+
 
 
 ### Social Links
